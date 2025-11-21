@@ -1,0 +1,2 @@
+// small nicety: set current year
+document.getElementById('year').textContent = new Date().getFullYear();
